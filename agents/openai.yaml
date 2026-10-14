@@ -1,0 +1,4 @@
+interface:
+  display_name: "Memory Poster Studio"
+  short_description: "把一批照片分别变成 3:4 手绘记忆海报；每张提炼 6 个或 3 个细节"
+  default_prompt: "请把我上传的每张照片分别做成一张3:4记忆海报：上半原照片，下半手绘；细节够6个就做6个，不足6个只做3个。务必全部逐张完成。"
